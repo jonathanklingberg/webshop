@@ -1,0 +1,1 @@
+Jag är inne! Detta är commitat från terminalen! har även fått upp en koppling direkt från eclipse med hjälp av EGIT.
